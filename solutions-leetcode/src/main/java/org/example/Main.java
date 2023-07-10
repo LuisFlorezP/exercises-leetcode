@@ -1,6 +1,7 @@
 package org.example;
 
 import org.example.easy.ArrayPartition;
+import org.example.easy.LongestCommonPrefix;
 import org.example.easy.RomanToInteger;
 import org.example.easy.TwoSum;
 
@@ -37,6 +38,15 @@ public class Main {
         // RomanToInteger ---------->
         /*
             System.out.println("Resultado: " + RomanToInteger.romanToInt("IV"));
+        */
+
+        // LongestCommonPrefix ---------->
+        /*
+            String[] array = new String[3];
+            array[0] = "flower";
+            array[1] = "flow";
+            array[2] = "flight";
+            System.out.println("Resultado: " + LongestCommonPrefix.longestCommonPrefix(array));
         */
 
     }
