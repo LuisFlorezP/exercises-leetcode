@@ -1,6 +1,7 @@
 package org.example;
 
 import org.example.easy.ArrayPartition;
+import org.example.easy.TwoSum;
 
 public class Main {
 
@@ -14,6 +15,17 @@ public class Main {
             array[2] = 3;
             array[3] = 2;
             System.out.println("Resultado: " + ArrayPartition.arrayPairSum(array));
+        */
+
+        // TwoSum ---------->
+        /*
+            int[] array = new int[4];
+            array[0] = 2;
+            array[1] = 7;
+            array[2] = 11;
+            array[3] = 15;
+            int[] result = TwoSum.twoSum(array, 9);
+            System.out.print("Resultado: " + ("[" + result[0] + ", " + result[1] + "]"));
         */
 
     }
