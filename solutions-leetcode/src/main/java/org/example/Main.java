@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.easy.ArrayPartition;
 import org.example.easy.TwoSum;
+import org.example.medium.LongestSubstringWithoutRepeatingCharacters;
 
 public class Main {
 
@@ -26,6 +27,11 @@ public class Main {
             array[3] = 15;
             int[] result = TwoSum.twoSum(array, 9);
             System.out.print("Resultado: " + ("[" + result[0] + ", " + result[1] + "]"));
+        */
+
+        // LongestSubstringWithoutRepeatingCharacters ---------->
+        /*
+            System.out.println("Resultado: " + LongestSubstringWithoutRepeatingCharacters.lengthOfLongestSubstring("abcabcb"));
         */
 
     }
