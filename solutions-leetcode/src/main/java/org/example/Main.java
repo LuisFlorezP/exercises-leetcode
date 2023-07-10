@@ -4,6 +4,7 @@ import org.example.easy.ArrayPartition;
 import org.example.easy.LongestCommonPrefix;
 import org.example.easy.RomanToInteger;
 import org.example.easy.TwoSum;
+import org.example.medium.ZigzagConversion;
 
 public class Main {
 
@@ -47,6 +48,11 @@ public class Main {
             array[1] = "flow";
             array[2] = "flight";
             System.out.println("Resultado: " + LongestCommonPrefix.longestCommonPrefix(array));
+        */
+
+        // ZigzagConversion ---------->
+        /*
+            System.out.println("Resultado: " + ZigzagConversion.convert("AB", 1));
         */
 
     }
