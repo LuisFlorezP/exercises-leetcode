@@ -1,11 +1,8 @@
 package org.example;
 
-import org.example.easy.ArrayPartition;
-import org.example.easy.LongestCommonPrefix;
+import org.example.easy.*;
 import org.example.easy.MergeTwoSortedLists.ListNode;
 import org.example.easy.MergeTwoSortedLists.MergeTwoSortedLists;
-import org.example.easy.RomanToInteger;
-import org.example.easy.TwoSum;
 import org.example.medium.ZigzagConversion;
 
 public class Main {
@@ -79,6 +76,17 @@ public class Main {
                 System.out.print(node.val + " - ");
                 node = node.next;
             }
+        */
+
+        // BestTimetoBuyandSellStock ---------->
+        /*
+            int[] array = new int[5];
+            array[0] = 7;
+            array[1] = 6;
+            array[2] = 4;
+            array[3] = 3;
+            array[4] = 1;
+            System.out.println("Resultado: " + BestTimetoBuyandSellStock.maxProfit(array));
         */
 
     }
