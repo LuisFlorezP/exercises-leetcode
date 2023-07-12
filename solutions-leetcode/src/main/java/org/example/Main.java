@@ -89,5 +89,10 @@ public class Main {
             System.out.println("Resultado: " + BestTimetoBuyandSellStock.maxProfit(array));
         */
 
+        // SingleNumber ---------->
+        /*
+            System.out.println("Resultado: " + SingleNumber.singleNumber(new int[] {1}));
+        */
+
     }
 }
