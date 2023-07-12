@@ -94,5 +94,10 @@ public class Main {
             System.out.println("Resultado: " + SingleNumber.singleNumber(new int[] {1}));
         */
 
+        // ValidParentheses ---------->
+        /*
+            System.out.println("Resultado: " + ValidParentheses.isValid("[[[]"));
+        */
+
     }
 }
