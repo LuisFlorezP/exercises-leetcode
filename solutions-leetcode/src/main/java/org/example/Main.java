@@ -99,5 +99,10 @@ public class Main {
             System.out.println("Resultado: " + ValidParentheses.isValid("[[[]"));
         */
 
+        // HappyNumber ---------->
+        /*
+            System.out.println("Resultado: " + HappyNumber.isHappy(2));
+        */
+
     }
 }
