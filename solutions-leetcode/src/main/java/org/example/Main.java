@@ -3,6 +3,7 @@ package org.example;
 import org.example.easy.*;
 import org.example.easy.MergeTwoSortedLists.ListNode;
 import org.example.easy.MergeTwoSortedLists.MergeTwoSortedLists;
+import org.example.medium.SplitTwoStringstoMakePalindrome;
 import org.example.medium.ZigzagConversion;
 
 public class Main {
@@ -102,6 +103,11 @@ public class Main {
         // HappyNumber ---------->
         /*
             System.out.println("Resultado: " + HappyNumber.isHappy(2));
+        */
+
+        // SplitTwoStringstoMakePalindrome ---------->
+        /*
+            System.out.println("Resultado: " + SplitTwoStringstoMakePalindrome.checkPalindromeFormation("ulacfd", "jizalu"));
         */
 
     }

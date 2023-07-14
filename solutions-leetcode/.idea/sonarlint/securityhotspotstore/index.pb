@@ -30,3 +30,7 @@ F
 0src/main/java/org/example/easy/SingleNumber.java,b\9\b94fbcc502d456d0ac9874f4650437b48611c78a
 m
 =src/main/java/org/example/easy/BestTimetoBuyandSellStock.java,f\b\fbbbff5797d9e72fe8c9773e65ddcd7fe05ab902
+d
+4src/main/java/org/example/easy/ValidParentheses.java,2\9\29697abc2bf18c4fd6b28918ba56fe35153045f3
+_
+/src/main/java/org/example/easy/HappyNumber.java,a\2\a2636eefbce678c284829149083ac0c8ce56d431
