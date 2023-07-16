@@ -100,5 +100,10 @@ public class Main {
             System.out.println("Resultado: " + RemoveDuplicatesFromSortedArray.removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4}));
         */
 
+        // SqrtX ---------->
+        /*
+            System.out.println("Resultado: " + SqrtX.mySqrt(10));
+        */
+
     }
 }
