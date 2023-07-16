@@ -1,10 +1,6 @@
 package org.example;
 
-import org.example.easy.*;
-import org.example.easy.MergeTwoSortedLists.ListNode;
-import org.example.easy.MergeTwoSortedLists.MergeTwoSortedLists;
-import org.example.medium.SplitTwoStringstoMakePalindrome;
-import org.example.medium.ZigzagConversion;
+import org.example.medium.RepeatedDNASequences;
 
 public class Main {
 
@@ -103,6 +99,13 @@ public class Main {
         // SqrtX ---------->
         /*
             System.out.println("Resultado: " + SqrtX.mySqrt(10));
+        */
+
+        // RepeatedDNASequences ---------->
+        /*
+            RepeatedDNASequences.findRepeatedDnaSequences("CCGGCCGGCCGGCC").forEach(value -> {
+                System.out.println("Resultado: " + value);
+            });
         */
 
     }
