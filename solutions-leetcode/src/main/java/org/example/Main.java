@@ -110,5 +110,9 @@ public class Main {
             System.out.println("Resultado: " + SplitTwoStringstoMakePalindrome.checkPalindromeFormation("ulacfd", "jizalu"));
         */
 
+        // PalindromeNumber ---------->
+        /*
+            System.out.println("Resultado: " + PalindromeNumber.isPalindrome(101));
+        */
     }
 }

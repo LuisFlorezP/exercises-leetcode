@@ -34,3 +34,5 @@ d
 4src/main/java/org/example/easy/ValidParentheses.java,2\9\29697abc2bf18c4fd6b28918ba56fe35153045f3
 _
 /src/main/java/org/example/easy/HappyNumber.java,a\2\a2636eefbce678c284829149083ac0c8ce56d431
+u
+Esrc/main/java/org/example/medium/SplitTwoStringstoMakePalindrome.java,c\8\c81545e9384347303620e8809583b52d3f467846
