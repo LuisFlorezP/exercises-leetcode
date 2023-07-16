@@ -12,22 +12,12 @@ public class Main {
 
         // ArrayPartition ---------->
         /*
-            int[] array = new int[4];
-            array[0] = 1;
-            array[1] = 4;
-            array[2] = 3;
-            array[3] = 2;
-            System.out.println("Resultado: " + ArrayPartition.arrayPairSum(array));
+            System.out.println("Resultado: " + ArrayPartition.arrayPairSum(new int[]{1,4,3,2}));
         */
 
         // TwoSum ---------->
         /*
-            int[] array = new int[4];
-            array[0] = 2;
-            array[1] = 7;
-            array[2] = 11;
-            array[3] = 15;
-            int[] result = TwoSum.twoSum(array, 9);
+            int[] result = TwoSum.twoSum(new int[]{2,7,11,15}, 9);
             System.out.print("Resultado: " + ("[" + result[0] + ", " + result[1] + "]"));
         */
 
@@ -43,11 +33,7 @@ public class Main {
 
         // LongestCommonPrefix ---------->
         /*
-            String[] array = new String[3];
-            array[0] = "flower";
-            array[1] = "flow";
-            array[2] = "flight";
-            System.out.println("Resultado: " + LongestCommonPrefix.longestCommonPrefix(array));
+            System.out.println("Resultado: " + LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"}));
         */
 
         // ZigzagConversion ---------->
@@ -81,13 +67,7 @@ public class Main {
 
         // BestTimetoBuyandSellStock ---------->
         /*
-            int[] array = new int[5];
-            array[0] = 7;
-            array[1] = 6;
-            array[2] = 4;
-            array[3] = 3;
-            array[4] = 1;
-            System.out.println("Resultado: " + BestTimetoBuyandSellStock.maxProfit(array));
+            System.out.println("Resultado: " + BestTimetoBuyandSellStock.maxProfit(new int[]{7,6,4,3,1}));
         */
 
         // SingleNumber ---------->
@@ -114,5 +94,11 @@ public class Main {
         /*
             System.out.println("Resultado: " + PalindromeNumber.isPalindrome(101));
         */
+
+        // RemoveDuplicatesFromSortedArray ---------->
+        /*
+            System.out.println("Resultado: " + RemoveDuplicatesFromSortedArray.removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4}));
+        */
+
     }
 }
