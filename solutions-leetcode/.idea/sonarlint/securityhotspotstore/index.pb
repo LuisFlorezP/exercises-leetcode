@@ -33,3 +33,8 @@ _
 /src/main/java/org/example/easy/HappyNumber.java,a\2\a2636eefbce678c284829149083ac0c8ce56d431
 u
 Esrc/main/java/org/example/medium/SplitTwoStringstoMakePalindrome.java,c\8\c81545e9384347303620e8809583b52d3f467846
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+j
+:src/main/java/org/example/medium/RepeatedDNASequences.java,f\c\fce833b34257fb2ad6663225d2ee36c96dd185f0
