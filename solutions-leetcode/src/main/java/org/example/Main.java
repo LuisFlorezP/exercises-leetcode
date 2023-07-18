@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.easy.CountNegativeNumbersInASortedMatrix;
 import org.example.easy.GreatestEnglishLetterInUpperAndLowerCase;
+import org.example.easy.MinimumBitFlipsToConvertNumber;
 import org.example.easy.WordPattern;
 
 public class Main {
@@ -123,6 +124,11 @@ public class Main {
         // Word Pattern ---------->
         /*
             System.out.println("Resultado: " + WordPattern.wordPattern("abba", "dog cat cat fish"));
+        */
+
+        // MinimumBitFlipsToConvertNumber ---------->
+        /*
+            System.out.println("Resultado: " + MinimumBitFlipsToConvertNumber.minBitFlips(58, 69));
         */
 
     }

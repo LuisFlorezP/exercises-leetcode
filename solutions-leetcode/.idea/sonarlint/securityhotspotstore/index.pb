@@ -42,3 +42,5 @@ j
 Lsrc/main/java/org/example/easy/GreatestEnglishLetterInUpperAndLowerCase.java,f\7\f7e5a299c75d0bc9e52e1468a84b2915383d32d9
 w
 Gsrc/main/java/org/example/easy/CountNegativeNumbersInASortedMatrix.java,e\d\ed52aff2e373b1d202d9988de1138687cca94475
+_
+/src/main/java/org/example/easy/WordPattern.java,b\f\bf50402f646276324c2b93b10760f52e68d4cd8c
