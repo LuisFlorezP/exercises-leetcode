@@ -38,3 +38,7 @@ Esrc/main/java/org/example/medium/SplitTwoStringstoMakePalindrome.java,c\8\c815
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 j
 :src/main/java/org/example/medium/RepeatedDNASequences.java,f\c\fce833b34257fb2ad6663225d2ee36c96dd185f0
+|
+Lsrc/main/java/org/example/easy/GreatestEnglishLetterInUpperAndLowerCase.java,f\7\f7e5a299c75d0bc9e52e1468a84b2915383d32d9
+w
+Gsrc/main/java/org/example/easy/CountNegativeNumbersInASortedMatrix.java,e\d\ed52aff2e373b1d202d9988de1138687cca94475

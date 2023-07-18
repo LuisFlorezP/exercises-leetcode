@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.easy.CountNegativeNumbersInASortedMatrix;
 import org.example.easy.GreatestEnglishLetterInUpperAndLowerCase;
+import org.example.easy.WordPattern;
 
 public class Main {
 
@@ -117,6 +118,11 @@ public class Main {
         // Count Negative Numbers in a Sorted Matrix ---------->
         /*
             System.out.println("Resultado: " + CountNegativeNumbersInASortedMatrix.countNegatives(new int[][]{{5,1,0},{-5,-5,-5}}));
+        */
+
+        // Word Pattern ---------->
+        /*
+            System.out.println("Resultado: " + WordPattern.wordPattern("abba", "dog cat cat fish"));
         */
 
     }
