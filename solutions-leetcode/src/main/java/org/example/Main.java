@@ -1,47 +1,14 @@
 package org.example;
 
-import org.example.easy.CountNegativeNumbersInASortedMatrix;
-import org.example.easy.GreatestEnglishLetterInUpperAndLowerCase;
-import org.example.easy.MinimumBitFlipsToConvertNumber;
-import org.example.easy.WordPattern;
-import org.example.medium.SplitTwoStringstoMakePalindrome;
-
 public class Main {
 
     public static void main(String[] args) {
 
-        // ArrayPartition ---------->
-        /*
-            System.out.println("Resultado: " + ArrayPartition.arrayPairSum(new int[]{1,4,3,2}));
-        */
 
-        // TwoSum ---------->
-        /*
-            int[] result = TwoSum.twoSum(new int[]{2,7,11,15}, 9);
-            System.out.print("Resultado: " + ("[" + result[0] + ", " + result[1] + "]"));
-        */
+        // <-----------------------------------------> EASY <----------------------------------------->
 
-        // LongestSubstringWithoutRepeatingCharacters ---------->
-        /*
-            System.out.println("Resultado: " + LongestSubstringWithoutRepeatingCharacters.lengthOfLongestSubstring("abcabcb"));
-        */
 
-        // RomanToInteger ---------->
-        /*
-            System.out.println("Resultado: " + RomanToInteger.romanToInt("IV"));
-        */
-
-        // LongestCommonPrefix ---------->
-        /*
-            System.out.println("Resultado: " + LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"}));
-        */
-
-        // ZigzagConversion ---------->
-        /*
-            System.out.println("Resultado: " + ZigzagConversion.convert("AB", 1));
-        */
-
-        // ListNode ---------->
+        // MergeTwoSortedLists ---------->
         /*
             ListNode node1 = new ListNode(1);
             ListNode node2 = new ListNode(2);
@@ -65,19 +32,24 @@ public class Main {
             }
         */
 
-        // BestTimetoBuyandSellStock ---------->
+        // ArrayPartition ---------->
         /*
-            System.out.println("Resultado: " + BestTimetoBuyandSellStock.maxProfit(new int[]{7,6,4,3,1}));
+            System.out.println("Resultado: " + ArrayPartition.arrayPairSum(new int[]{1,4,3,2}));
         */
 
-        // SingleNumber ---------->
+        // BestTimeToBuyandSellStock ---------->
         /*
-            System.out.println("Resultado: " + SingleNumber.singleNumber(new int[] {1}));
+            System.out.println("Resultado: " + BestTimeToBuyandSellStock.maxProfit(new int[]{7,6,4,3,1}));
         */
 
-        // ValidParentheses ---------->
+        // CountNegativeNumbersInASortedMatrix ---------->
         /*
-            System.out.println("Resultado: " + ValidParentheses.isValid("[[[]"));
+            System.out.println("Resultado: " + CountNegativeNumbersInASortedMatrix.countNegatives(new int[][]{{5,1,0},{-5,-5,-5}}));
+        */
+
+        // GreatestEnglishLetterInUpperAndLowerCase ---------->
+        /*
+            System.out.println("Resultado: " + GreatestEnglishLetterInUpperAndLowerCase.greatestLetter("lEeTcOdE"));
         */
 
         // HappyNumber ---------->
@@ -85,9 +57,14 @@ public class Main {
             System.out.println("Resultado: " + HappyNumber.isHappy(2));
         */
 
-        // SplitTwoStringstoMakePalindrome ---------->
+        // LongestCommonPrefix ---------->
         /*
-            System.out.println("Resultado: " + SplitTwoStringstoMakePalindrome.checkPalindromeFormation("ulacfd", "jizalu"));
+            System.out.println("Resultado: " + LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"}));
+        */
+
+        // MinimumBitFlipsToConvertNumber ---------->
+        /*
+            System.out.println("Resultado: " + MinimumBitFlipsToConvertNumber.minBitFlips(58, 69));
         */
 
         // PalindromeNumber ---------->
@@ -100,9 +77,44 @@ public class Main {
             System.out.println("Resultado: " + RemoveDuplicatesFromSortedArray.removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4}));
         */
 
+        // RomanToInteger ---------->
+        /*
+            System.out.println("Resultado: " + RomanToInteger.romanToInt("IV"));
+        */
+
+        // SingleNumber ---------->
+        /*
+            System.out.println("Resultado: " + SingleNumber.singleNumber(new int[] {1}));
+        */
+
         // SqrtX ---------->
         /*
             System.out.println("Resultado: " + SqrtX.mySqrt(10));
+        */
+
+        // TwoSum ---------->
+        /*
+            int[] result = TwoSum.twoSum(new int[]{2,7,11,15}, 9);
+            System.out.print("Resultado: " + ("[" + result[0] + ", " + result[1] + "]"));
+        */
+
+        // ValidParentheses ---------->
+        /*
+            System.out.println("Resultado: " + ValidParentheses.isValid("[[[]"));
+        */
+
+        // Word Pattern ---------->
+        /*
+            System.out.println("Resultado: " + WordPattern.wordPattern("abba", "dog cat cat fish"));
+        */
+
+
+        // <-----------------------------------------> MEDIUM <----------------------------------------->
+
+
+        // LongestSubstringWithoutRepeatingCharacters ---------->
+        /*
+            System.out.println("Resultado: " + LongestSubstringWithoutRepeatingCharacters.lengthOfLongestSubstring("abcabcb"));
         */
 
         // RepeatedDNASequences ---------->
@@ -112,25 +124,19 @@ public class Main {
             });
         */
 
-        // GreatestEnglishLetterInUpperAndLowerCase ---------->
+        // SplitTwoStringsToMakePalindrome ---------->
         /*
-            System.out.println("Resultado: " + GreatestEnglishLetterInUpperAndLowerCase.greatestLetter("lEeTcOdE"));
+            System.out.println("Resultado: " + SplitTwoStringsToMakePalindrome.checkPalindromeFormation("ulacfd", "jizalu"));
         */
 
-        // Count Negative Numbers in a Sorted Matrix ---------->
+        // ZigzagConversion ---------->
         /*
-            System.out.println("Resultado: " + CountNegativeNumbersInASortedMatrix.countNegatives(new int[][]{{5,1,0},{-5,-5,-5}}));
+            System.out.println("Resultado: " + ZigzagConversion.convert("AB", 1));
         */
 
-        // Word Pattern ---------->
-        /*
-            System.out.println("Resultado: " + WordPattern.wordPattern("abba", "dog cat cat fish"));
-        */
 
-        // MinimumBitFlipsToConvertNumber ---------->
-        /*
-            System.out.println("Resultado: " + MinimumBitFlipsToConvertNumber.minBitFlips(58, 69));
-        */
+        // <-----------------------------------------> HARD <----------------------------------------->
+
 
     }
 }

@@ -1,10 +1,6 @@
 package org.example.easy;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
-public class BestTimetoBuyandSellStock {
+public class BestTimeToBuyandSellStock {
 
     public static int maxProfit(int[] prices) {
         int min = Integer.MAX_VALUE, max = Integer.MIN_VALUE;
