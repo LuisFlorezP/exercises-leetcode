@@ -9,8 +9,6 @@ b
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 Z
 *src/main/java/org/example/easy/TwoSum.java,a\6\a6c70289112fb0035733a43f5a600b7c51337b25
-€
-Psrc/main/java/org/example/medium/LongestSubstringWithoutRepeatingCharacters.java,d\d\ddc114c6e32a0d2402be622ffffa7c416ff267e2
 b
 2src/main/java/org/example/easy/RomanToInteger.java,b\a\ba32b4bc88316c11264f478818ffeffc7ef41d08
 g
@@ -44,3 +42,5 @@ w
 Gsrc/main/java/org/example/easy/CountNegativeNumbersInASortedMatrix.java,e\d\ed52aff2e373b1d202d9988de1138687cca94475
 _
 /src/main/java/org/example/easy/WordPattern.java,b\f\bf50402f646276324c2b93b10760f52e68d4cd8c
+r
+Bsrc/main/java/org/example/easy/MinimumBitFlipsToConvertNumber.java,c\b\cbbe7d9b86b1a8b50044290b869878ae4db10d6d
