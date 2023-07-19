@@ -25,8 +25,6 @@ d
 4src/main/java/org/example/easy/ValidParentheses.java,2\9\29697abc2bf18c4fd6b28918ba56fe35153045f3
 _
 /src/main/java/org/example/easy/HappyNumber.java,a\2\a2636eefbce678c284829149083ac0c8ce56d431
-u
-Esrc/main/java/org/example/medium/SplitTwoStringstoMakePalindrome.java,c\8\c81545e9384347303620e8809583b52d3f467846
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -40,3 +38,9 @@ _
 /src/main/java/org/example/easy/WordPattern.java,b\f\bf50402f646276324c2b93b10760f52e68d4cd8c
 r
 Bsrc/main/java/org/example/easy/MinimumBitFlipsToConvertNumber.java,c\b\cbbe7d9b86b1a8b50044290b869878ae4db10d6d
+`
+0src/main/java/org/example/easy/SingleNumber.java,b\9\b94fbcc502d456d0ac9874f4650437b48611c78a
+€
+Psrc/main/java/org/example/medium/LongestSubstringWithoutRepeatingCharacters.java,d\d\ddc114c6e32a0d2402be622ffffa7c416ff267e2
+b
+2src/main/java/org/example/easy/ArrayPartition.java,2\1\212615a373fc63a6fdb14c90351504084437f6b8
