@@ -21,8 +21,6 @@ p
 Ksrc/main/java/org/example/easy/MergeTwoSortedLists/MergeTwoSortedLists.java,0\7\078181afb3a873d0e453bbfbc28bffeb81f22468
 F
 solutions-leetcode.iml,c\3\c3145cf07a05a4b0145bf6e00d8e5a08a732a654
-`
-0src/main/java/org/example/easy/SingleNumber.java,b\9\b94fbcc502d456d0ac9874f4650437b48611c78a
 m
 =src/main/java/org/example/easy/BestTimetoBuyandSellStock.java,f\b\fbbbff5797d9e72fe8c9773e65ddcd7fe05ab902
 d
