@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.easy.AddStrings;
 import org.example.easy.BaseballGame;
 
 public class Main {
@@ -32,6 +33,11 @@ public class Main {
                 System.out.print(node.val + " - ");
                 node = node.next;
             }
+        */
+
+        // AddStrings ---------->
+        /*
+            System.out.println("Resultado: " + AddStrings.addStrings("11", "123"));
         */
 
         // ArrayPartition ---------->
