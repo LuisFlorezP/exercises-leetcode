@@ -40,3 +40,9 @@ Bsrc/main/java/org/example/easy/MinimumBitFlipsToConvertNumber.java,c\b\cbbe7d9
 Psrc/main/java/org/example/medium/LongestSubstringWithoutRepeatingCharacters.java,d\d\ddc114c6e32a0d2402be622ffffa7c416ff267e2
 b
 2src/main/java/org/example/easy/ArrayPartition.java,2\1\212615a373fc63a6fdb14c90351504084437f6b8
+w
+Gsrc/main/java/org/example/easy/CountNegativeNumbersInASortedMatrix.java,e\d\ed52aff2e373b1d202d9988de1138687cca94475
+m
+=src/main/java/org/example/easy/BestTimeToBuyandSellStock.java,f\6\f63ce7491e745b45989c569dd77d1bfaf190955f
+u
+Esrc/main/java/org/example/medium/SplitTwoStringsToMakePalindrome.java,d\9\d9e6a10a552cbaacad0ca074b596ccd54d29c4f4

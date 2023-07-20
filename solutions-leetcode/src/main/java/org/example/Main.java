@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.easy.BaseballGame;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -35,6 +37,11 @@ public class Main {
         // ArrayPartition ---------->
         /*
             System.out.println("Resultado: " + ArrayPartition.arrayPairSum(new int[]{1,4,3,2}));
+        */
+
+        // BaseballGame ---------->
+        /*
+            System.out.println("Resultado: " + BaseballGame.calPoints(new String[]{}));
         */
 
         // BestTimeToBuyandSellStock ---------->
