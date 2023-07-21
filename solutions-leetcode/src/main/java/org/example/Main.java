@@ -1,7 +1,6 @@
 package org.example;
 
-import org.example.easy.AddStrings;
-import org.example.easy.BaseballGame;
+import org.example.easy.UniqueNumberOfOccurrences;
 
 public class Main {
 
@@ -110,6 +109,11 @@ public class Main {
             int[] result = TwoSum.twoSum(new int[]{2,7,11,15}, 9);
             System.out.print("Resultado: " + ("[" + result[0] + ", " + result[1] + "]"));
         */
+
+        // UniqueNumberOfOccurrences ---------->
+
+            System.out.println("Resultado: " + UniqueNumberOfOccurrences.uniqueOccurrences(new int[]{1,2,2,1,1,3}));
+
 
         // ValidParentheses ---------->
         /*
